@@ -36,7 +36,41 @@
 
 * Validate and implement the data model.
 
+#### ABOUT THE FEATURES(In the dataset):
 
+* We have 4118 instances and 21 features. The 21 attributes have been described below in detail.
 
+Age : Age of the lead (numeric)
 
+Job : type of job (Categorical)
+
+Marital : Marital status (Categorical)
+
+Education : Educational Qualification of the lead (Categorical)
+
+Default: Does the lead has any default(unpaid)credit (Categorical)
+
+Housing: Does the lead has any housing loan? (Categorical)
+
+loan: Does the lead has any personal loan? (Categorical)
+
+campaign: number of contacts performed during this campaign and for this client (numeric)
+
+pdays: number of days that passed by after the client was last contacted from a previous campaign(numeric; 999 means client was not previously contacted))
+
+previous: number of contacts performed before this campaign and for this client (numeric)
+
+poutcome: outcome of the previous marketing campaign (categorical)
+
+emp.var.rate: employment variation rate - quarterly indicator (numeric)
+
+cons.price.idx: consumer price index - monthly indicator (numeric)
+
+cons.conf.idx: consumer confidence index - monthly indicator (numeric)
+
+euribor3m: euribor 3 month rate - daily indicator (numeric)
+
+nr.employed: number of employees - quarterly indicator (numeric)
+
+y - has the client subscribed a term deposit? (binary: 'yes','no')
 
