@@ -76,3 +76,11 @@ euribor3m: euribor 3 month rate - daily indicator (numeric)
 nr.employed: number of employees - quarterly indicator (numeric)
 
 y - has the client subscribed a term deposit? (binary: 'yes','no')
+
+#### EPILOGUE:
+
+* We can clearly see that duration plays an important role in determining the outcome of our dataset.
+
+* It is certain that the more leads that are interested in starting a deposit will have a higher number of calls and the call duration will be higher than average.
+
+* It's a good idea to reach out to leads at the beginning of the new bank period (May-July)  since we've seen data showing positive results in the past.
