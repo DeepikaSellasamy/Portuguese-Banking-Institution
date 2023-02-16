@@ -1,4 +1,7 @@
 # PORTUGUESE-BANKING-CAMPAIGN
+
+![increase-deposits](https://user-images.githubusercontent.com/122966157/219281346-4a1a4fc3-181c-4ee9-89f0-7aad8ecc8c57.jpg)
+
           
  #### PROBLEM STATEMENT:
 
@@ -73,7 +76,3 @@ euribor3m: euribor 3 month rate - daily indicator (numeric)
 nr.employed: number of employees - quarterly indicator (numeric)
 
 y - has the client subscribed a term deposit? (binary: 'yes','no')
-
-
-
-          
