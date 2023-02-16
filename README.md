@@ -74,3 +74,7 @@ nr.employed: number of employees - quarterly indicator (numeric)
 
 y - has the client subscribed a term deposit? (binary: 'yes','no')
 
+
+
+          ![increase-deposits](https://user-images.githubusercontent.com/122966157/219280630-33366131-28e8-41e6-8cac-dacce8f2b28c.jpg)
+
